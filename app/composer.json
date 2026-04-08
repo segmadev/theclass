@@ -1,0 +1,8 @@
+{
+    "require": {
+        "flutterwavedev/flutterwave-v3": "^1.0",
+        "vlucas/phpdotenv": "^5.6",
+        "google/apiclient": "2.13",
+        "cryptomus/api-php-sdk": "^1.0"
+    }
+}
