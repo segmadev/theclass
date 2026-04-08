@@ -1,0 +1,14 @@
+PUBLIC_KEY=
+SECRET_KEY=
+ENCRYPTION_KEY=
+ENV='staging/production'
+DATA_ENCRYPTION_KEY = '6691a8437yuy364533fefeu7986543'
+GKEY = '56789'
+mail_type = "log" 
+path = "http://localhost:8072"
+files_base = "http://localhost.com/app"
+ENCRYPTION_KEY=SDFG8765453568YTETR654656TRTTR65656
+debug = true
+fontendurl = "http://localhost.com"
+A2A_KEY_ID = "a2a-1"
+LIVECHAT_API = "http://localhost:8111/livechat/"
